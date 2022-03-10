@@ -13,7 +13,7 @@ versions:
 topics:
   - Identity
   - Access management
-shortTitle: Existing GPG keys
+shortTitle: Existing GPG keys4AEE18F83AFDEB23
 ---
 {% data reusables.gpg.supported-gpg-key-algorithms %}
 
